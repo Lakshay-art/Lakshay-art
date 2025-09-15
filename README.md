@@ -1,25 +1,13 @@
 # 👋 Hi, I'm Lakshay Gupta
 
-Welcome to my GitHub profile! 🚀
-
----
-
-## 🌱 About Me
-
-- 🔭 I’m currently working as a **React Native Developer**
-- 🌱 I’m learning **Advanced Git, Native Modules, App Release Process, Proguard, and Firebase Integrations**
-- 💬 Ask me about **React, JavaScript, TypeScript, Next.js, Node.js**
-- ⚡ Fun fact: I enjoy building creative apps for cricket & fantasy gaming! 🏏
-
----
 
 ## 📊 GitHub Stats
 
-![Lakshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Lakshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshay-art&show_icons=true&theme=radical)
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lakshay-art&theme=radical)
 
 ---
 
@@ -36,7 +24,7 @@ Welcome to my GitHub profile! 🚀
 
 ## 📈 My Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshay-artlayout=compact&theme=radical)
 
 ---
 
