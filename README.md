@@ -30,8 +30,6 @@
 - 🌱 Learn advanced concepts in mobile app development  
 - 🧱 Build scalable, maintainable applications  
 - ⚡ Level up debugging and performance optimization skills  
-- 🔧 Integrate powerful tools like Appsflyer, Firebase, and CodePush  
-- 🗺️ Conquer complex release processes and native modules
 
 
 ## 🕹️ Fun Command
