@@ -1,32 +1,69 @@
-# 👋 Hi, I'm Lakshay Gupta
+# 🎮 Welcome, Adventurer Lakshay Gupta! 🏰
 
+## 🌟 Your Developer Quest Begins Here
 
-## 📊 GitHub Stats
+```plaintext
+              _.--.
+          _.-'_:-'||
+      _.-'_.-::::'||
+ _.-:'_.-::::::'  ||
+.'`-.-:::::::'     ||
+/.'`;|:::::::'      ||_
+||   ||::::::'     _.;._'-._
+||   ||:::::'  _.-!oo @.!-._'-.
+\'.  ||:::::.-!()oo @!()@.-'_.|
+ '.'-;|:.-'.&$@.& ()$%-'o.'\U||
+   `>'-.!@%()@'@_%-'_.-o _.|'||
+    ||-._'-.@.-'_.-' _.-o  |'||
+    ||= [ '-._.-\U/.-'    o |'||
+    || '-.]=|| |'|      o  |'||
+    ||      || |'|        _| ';
+    ||      || |'|    _.-'_.-'
+    |'-._   || |'|_.-'_.-'
+     '-._'-.|| |' `_.-'
+          '-.||_/.-'
 
-![Lakshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshay-art&show_icons=true&theme=radical)
+```
 
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+> 🚀 **Lakshay Gupta**, Master of React Native, Tamer of Native Modules, and Explorer of ProGuard Realms.
 
 ---
 
-## 📈 My Top Languages
+## 🎯 Mission Objectives
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshay-art&layout=compact&theme=radical)
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/lakshaythegupta)  
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lakshaythegupta@gmail.com)
+- 🌱 Learn advanced concepts in mobile app development  
+- 🧱 Build scalable, maintainable applications  
+- ⚡ Level up debugging and performance optimization skills  
+- 🔧 Integrate powerful tools like Appsflyer, Firebase, and CodePush  
+- 🗺️ Conquer complex release processes and native modules
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 🕹️ Fun Command
+
+```bash
+> echo "show me Lakshay's superpowers"
+Superpowers:
+- 🚀 React Native
+- 💥 Next.js & React
+- 🔧 Node.js & Express
+- 🔐 Firebase, Appsflyer
+- 📦 Module creation & Release Process
+```
+
+---
+
+## 🎲 Random Developer Tip
+
+> "Don’t forget to take breaks. Even the best code needs to breathe." – Wise Dev Sage 🧙‍♂️
+
+---
+
+## 📫 Connect with me
+
+- 🧑‍💻 [LinkedIn](https://linkedin.com/in/lakshaythegupta)  
+- 📧 [Email](mailto:lakshaythegupta@gmail.com)
+
+---
+
+> 🌌 May your commits be clean and your bugs be few!
