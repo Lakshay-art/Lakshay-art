@@ -25,10 +25,6 @@
 
 ```
 
-> 🚀 **Lakshay Gupta**, Master of React Native, Tamer of Native Modules, and Explorer of ProGuard Realms.
-
----
-
 ## 🎯 Mission Objectives
 
 - 🌱 Learn advanced concepts in mobile app development  
@@ -37,7 +33,6 @@
 - 🔧 Integrate powerful tools like Appsflyer, Firebase, and CodePush  
 - 🗺️ Conquer complex release processes and native modules
 
----
 
 ## 🕹️ Fun Command
 
@@ -51,13 +46,13 @@ Superpowers:
 - 📦 Module creation & Release Process
 ```
 
----
+
 
 ## 🎲 Random Developer Tip
 
 > "Don’t forget to take breaks. Even the best code needs to breathe." – Wise Dev Sage 🧙‍♂️
 
----
+
 
 ## 📫 Connect with me
 
